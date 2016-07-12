@@ -1,0 +1,19 @@
+{
+  "name": "iris-error-codes",
+  "version": "1.0.0",
+  "description": "IRIS error codes enchiridion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdk-group/iris-error-codes.git"
+  },
+  "author": "SS & V.D.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sdk-group/iris-error-codes/issues"
+  },
+  "homepage": "https://github.com/sdk-group/iris-error-codes#readme"
+}

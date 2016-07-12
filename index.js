@@ -1,0 +1,1 @@
+module.exports = require('./Enchiridion/index.js');
