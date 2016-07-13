@@ -1,4 +1,5 @@
 module.exports = require('./Enchiridion/index.js');
-module.exports.getError(section, code, lang = 'en') {
-	let msg =
+module.exports.makeError = function (code, reason) {
+	let msg = `${code}#${reason}`;
+	return (new Error(msg));
 }
