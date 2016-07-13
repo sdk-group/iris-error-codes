@@ -5,5 +5,6 @@ module.exports = {
 	qa: require('./qa.js'),
 	queue: require('./queue.js'),
 	roomdisplay: require('./roomdisplay.js'),
-	terminal: require('./terminal.js')
+	terminal: require('./terminal.js'),
+	common: require('./common.js')
 };

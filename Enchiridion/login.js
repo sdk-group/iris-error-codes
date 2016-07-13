@@ -1,35 +1,23 @@
 module.exports = {
-	11: {
+	111: {
 		ru: "неверный пароль",
 		en: "incorrect password"
 	},
-	12: {
+	112: {
 		ru: "пользователь не найден",
 		en: "no such user"
 	},
-	13: {
-		ru: "ошибка сервера",
-		en: "internal error"
-	},
-	14: {
-		ru: "внутренняя ошибка приложения",
-		en: "application error"
-	},
-	15: {
-		ru: "неизвестная ошибка",
-		en: "unknown"
-	},
-	16: {
-		ru: "превышено время ожидания",
-		en: "operation timeout"
-	},
-	17: {
+	113: {
 		ru: "рабочее место недоступно данному оператору",
 		en: "ws unavailable"
 
 	},
-	18: {
+	114: {
 		ru: "рабочее место занято другим оператором",
 		en: "workstation is already occupied"
+	},
+	115: {
+		ru: "неверный токен",
+		en: "invalid token"
 	}
 };
