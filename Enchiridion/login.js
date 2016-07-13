@@ -13,19 +13,20 @@ module.exports = {
 	},
 	14: {
 		ru: "внутренняя ошибка приложения",
-		en: "unknown"
+		en: "application error"
 	},
 	15: {
 		ru: "неизвестная ошибка",
-		en: "operation timeout"
+		en: "unknown"
 	},
 	16: {
 		ru: "превышено время ожидания",
-		en: "ws unavailable"
+		en: "operation timeout"
 	},
 	17: {
 		ru: "рабочее место недоступно данному оператору",
-		en: "application error"
+		en: "ws unavailable"
+
 	},
 	18: {
 		ru: "рабочее место занято другим оператором",
